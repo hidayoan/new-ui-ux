@@ -9,10 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ant-design/cssinjs": "^1.17.2",
-    "@ant-design/icons": "^5.2.6",
+    "@react-three/drei": "^9.88.7",
+    "@react-three/fiber": "^8.15.8",
     "@vercel/analytics": "^1.0.2",
-    "antd": "^5.10.0",
     "aos": "^2.3.4",
     "encoding": "^0.1.13",
     "ethers": "^5.7.2",
